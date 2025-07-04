@@ -53,3 +53,9 @@ The below information details my progression of my mini project week by week whi
 ### **PROJECT REFLECTIONS:**
 
 This has been made possible because of the teachers at Generation UK who have been a massive help to me on meeting the project requirements as well as boosting me on my coding journey. If I had more time on my project, I would choose to add more error handling for even more situations as well as implementing the week 5 requirements. I would also like to add many more unit tests for separate functions in my programs as well as different files to import my functions from.
+
+### **POST PROGRAM:**
+
+In this section I will talk about the post program edits I have made to my mini project. 
+
+* Updated my file pathing for my csv files as I have rearranged the folders in my local file system. I have also added my future plans in the products.py file and the testapp.py file to set myself a goal on improving my coding skills.

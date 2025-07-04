@@ -1,3 +1,2 @@
 product,price
-Cheese,£1.95
-Milk,£1.43
+Babybel,£1.50
