@@ -1,2 +1,2 @@
 product,price
-Babybel,£1.50
+Babybel,ï¿½1.50
